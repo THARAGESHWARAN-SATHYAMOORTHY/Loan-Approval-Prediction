@@ -9,12 +9,12 @@ Plotly, Matplotlib and Seaborn python libraries are used for data visualization.
 To try most possible ways to get maximum accuracy number of Machine Learning Algorithms are tried with data with Parameter tunning.
 Also tried with Voting Ensemble Method. Aim was to check efficiency of classifiers on the given data.
 
-Random Forest
-Decision Tree
-Support Vector Machine
-Logistic Regression
-KNearest Neighbors
-Gaussian Naivey Bayes
+1. Random Forest
+2. Decision Tree
+3. Support Vector Machine
+4. Logistic Regression
+5. KNearest Neighbors
+6. Gaussian Naivey Bayes
 
 Maximum accuracy achieved by Random Forest of 83.88%.
 Average accuracy achieved by all classifiers is 83.11%.

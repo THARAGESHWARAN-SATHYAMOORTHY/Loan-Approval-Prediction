@@ -30,7 +30,7 @@ More improvement in terms of Data analysis , Data wrangling, Model selection wil
 
 # Graphs:->
 
-![alt text](https://github.com/THARAGESHWARAN-SATHYAMOORTHY/Loan-Approval-Prediction/blob/master/Graphs/Screenshot%20(114).png)
+![Image](https://github.com/THARAGESHWARAN-SATHYAMOORTHY/Loan-Approval-Prediction/blob/master/Graphs/Screenshot%20(114).png)
 
 ![alt text](https://github.com/THARAGESHWARAN-SATHYAMOORTHY/Loan-Approval-Prediction/blob/master/Graphs/Screenshot%20(115).png)
 

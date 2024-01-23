@@ -5,21 +5,14 @@ Training datset consists of Gender, Married,	Dependents,	Education,	Self_Employe
 
 To understand the data and to get most possible information from the data Explorary Data Analysis is done as first part. 
 Plotly, Matplotlib and Seaborn python libraries are used for data visualization. 
-plotly 4.9.0
-matplotlib 3.3.0
-seaborn 0.10.0
 
 To try most possible ways to get maximum accuracy number of Machine Learning Algorithms are tried with data with Parameter tunning.
 Also tried with Voting Ensemble Method. Aim was to check efficiency of classifiers on the given data.
 
-Extream Gradient Boosting
 Random Forest
 Decision Tree
-Gradient Boosting
-Ada Boost
 Support Vector Machine
 Logistic Regression
-Linear Discriminant Analysis
 KNearest Neighbors
 Gaussian Naivey Bayes
 
